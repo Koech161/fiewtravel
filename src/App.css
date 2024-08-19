@@ -374,12 +374,50 @@ margin-top: 14px;
 }
 @media (max-width:576px) {
   .form{
-    width: 400px;
+    width: 100%;
+    padding: 10px;
   }
+  .form div {
+        margin-bottom: 8px;
+    }
+
+    input[type='text'], input[type='number'] {
+        padding: 6px;
+    }
+
+    button {
+        padding: 10px;
+        font-size: 12px;
+    }
+
+    ul.lists li {
+        font-size: 14px;
+    }
+card {
+        max-width: 200px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
   .admin-container{
     max-width: 550px;
   }
   .App{
   max-width: 570px;
+  }
+  .nav {
+    font-size: 16px;
+  }
+}
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav {
+    flex-direction: column;
+    gap: 20px;
+    font-size: 18px;
   }
 }
