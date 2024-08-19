@@ -1,0 +1,53 @@
+{
+  "hotels": [
+    {
+      "image": "https://viutravel-cms-bucket.s3.eu-west-1.amazonaws.com/7212/conversions/375322855-thumbnail.webp",
+      "location": "Nairobi, Kenya",
+      "hotelName": "Sky Hotel Nairobi",
+      "price": "FROM KES 5,650",
+      "id": "9a9b"
+    },
+    {
+      "id": "7117",
+      "image": "https://viutravel-cms-bucket.s3.eu-west-1.amazonaws.com/8338/conversions/175189993-thumbnail.webp",
+      "location": "Mombasa, Kenya",
+      "hotelName": "Checkpoint Inn",
+      "price": "FROM KES 4,250"
+    },
+    {
+      "id": "6b11",
+      "image": "https://viutravel-cms-bucket.s3.eu-west-1.amazonaws.com/14096/conversions/Swimming-pool-thumbnail.webp",
+      "location": " Nairobi, Kenya",
+      "hotelName": "Clemsa Boutique Hotel",
+      "price": "FROM KES 13,500"
+    },
+    {
+      "id": "b2bc",
+      "image": "https://viutravel-cms-bucket.s3.eu-west-1.amazonaws.com/14115/conversions/WhatsApp-Image-2023-07-19-at-9.31.53-AM-%283%29-thumbnail.webp",
+      "location": " Kisumu, Kenya",
+      "hotelName": "VICTORIA COMFORT INN LTD",
+      "price": "FROM KES 6,500"
+    },
+    {
+      "id": "5516",
+      "image": "https://viutravel-cms-bucket.s3.eu-west-1.amazonaws.com/11221/conversions/481A9082-thumbnail.webp",
+      "location": "Thika, Kenya",
+      "hotelName": "The Luke Hotel Thika-Cravers",
+      "price": "FROM KES 3,500"
+    },
+    {
+      "id": "49bb",
+      "image": "https://viutravel-cms-bucket.s3.eu-west-1.amazonaws.com/1371653/conversions/cfc58d1f1b4441d7-thumbnail.webp",
+      "location": " Nairobi, Kenya",
+      "hotelName": "Sportsview Hotel",
+      "price": "FROM KES 5,500"
+    },
+    {
+      "id": "6b8a",
+      "image": "https://viutravel-cms-bucket.s3.eu-west-1.amazonaws.com/9995/conversions/WhatsApp-Image-2023-05-26-at-10.38.05-AM-%281%29-thumbnail.webp",
+      "location": "Kisumu, Kenya",
+      "hotelName": "The VIP Luxury Lounge",
+      "price": "FROM KES 5,000"
+    }
+  ]
+}
